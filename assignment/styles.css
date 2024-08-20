@@ -2,8 +2,13 @@ header {
     background-color: aquamarine;
 };
 
+
 h2 {
-    background-color: cornflowerblue;
-    text-emphasis-color: blue;
+    background-color: rgb(0, 255, 149);
+    text-decoration-color: aqua;
 };
 
+h3 {
+    background-color: darkgreen;
+    text-decoration-color: blueviolet;
+};
